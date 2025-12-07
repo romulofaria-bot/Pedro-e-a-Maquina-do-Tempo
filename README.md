@@ -1,17 +1,5 @@
 # Pedro-e-a-Maquina-do-Tempo
 Pedro e a Máquina do tempo
-<!--
-Projeto: Máquina do Tempo - história interativa
-Arquivo: index.html
-Descrição: Uma página HTML + JavaScript simples e fácil que conta a história de um menino que encontra uma máquina do tempo
-Como usar:
-1. Salve este arquivo como index.html
-2. Coloque-o em um repositório no GitHub (ex.: repo "maquina-do-tempo")
-3. Ative GitHub Pages nas configurações do repositório para publicar como site estático (ou abra o arquivo localmente no navegador)
-
-Você pode editar os textos nas seções "events" e nas descrições para adicionar mais aventuras.
--->
-
 <!doctype html>
 <html lang="pt-BR">
 <head>
@@ -58,8 +46,6 @@ Você pode editar os textos nas seções "events" e nas descrições para adicio
         <button onclick="resetStory()" class="secondary">Voltar</button>
       </div>
     </div>
-
-    <footer>Projeto simples para GitHub — exporte este arquivo como <code>index.html</code> e publique com GitHub Pages.</footer>
   </div>
 
 <script>
